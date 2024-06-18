@@ -203,3 +203,8 @@ def extract_parties_affected_from_pdf(pdf_file_path):
 pdf_file_path = 'path/to/your/pdf/file.pdf'
 extracted_parties_affected = extract_parties_affected_from_pdf(pdf_file_path)
 print("Parties Affected:", extracted_parties_affected)
+
+
+
+
+allalaadfhgbjdfbewjfbew
